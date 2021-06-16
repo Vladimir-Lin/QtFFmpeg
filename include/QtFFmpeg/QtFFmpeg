@@ -1,0 +1,6 @@
+#ifndef CIOS_FFMPEG_HPP
+#define CIOS_FFMPEG_HPP
+
+#include "qtffmpeg.h"
+
+#endif
